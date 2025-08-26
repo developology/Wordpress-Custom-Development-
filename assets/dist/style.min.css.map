@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACI,iBAAA,QACA,OAAA,IACA,aAAA","file":"style.min.css","sourcesContent":["body{\r\n    background-color: antiquewhite;\r\n    border: 1px;\r\n    border-color: rgb(0, 0, 0);\r\n}   "]}
